@@ -30,8 +30,12 @@ This project demonstrates a loan approval model developed using a **Random Fores
    ```bash
    git clone https://github.com/your-username/loan-approval-model.git
    cd loan-approval-model
-2. **Install required libraries**  
-  pip install -r requirements.txt
+2. ## Install required libraries by running the following command:  
+
+```bash
+pip install -r requirements.txt
+
+
 ## Usage
 Run the Jupyter Notebook to explore the model's workflow, including:
 - **Data preprocessing**
