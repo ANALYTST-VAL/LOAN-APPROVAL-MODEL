@@ -59,6 +59,10 @@ _Data Scientist and Technical Trainer_
 [LinkedIn Profile](https://www.linkedin.com/in/valentine-onyemeziri-023378103)
 
 ---
+## Appreciation  
+A special thank you to [Kaggle](https://www.kaggle.com/) for providing the dataset used in this project. Your platform has been an invaluable resource for data scientists and enthusiasts worldwide.
+
+---
 
 ## License
 This project is licensed under the **MIT License**.
