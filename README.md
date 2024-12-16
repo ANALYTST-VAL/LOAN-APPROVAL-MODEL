@@ -56,7 +56,7 @@ Use the model to predict loan approvals based on new data by providing inputs si
 ## Author
 **Onyemeziri Valentine Chinazom**  
 _Data Scientist and Technical Trainer_  
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+[LinkedIn Profile](www.linkedin.com/in/valentine-onyemeziri-023378103)
 
 ---
 
