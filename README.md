@@ -30,7 +30,8 @@ This project demonstrates a loan approval model developed using a **Random Fores
    ```bash
    git clone https://github.com/your-username/loan-approval-model.git
    cd loan-approval-model
-2. **Install required libraries**
+2. **Install required libraries**:
+    ```bash
    pip install -r requirements.txt
 
 ## Usage
