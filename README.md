@@ -1,6 +1,6 @@
-Loan Approval Model
-Project Overview
-This project demonstrates a loan approval model developed using a Random Forest classifier. The model is designed for financial institutions to minimize potential losses from loan defaults by accurately predicting loan approval outcomes.
+**# Loan Approval Model**
+**## Project Overview**
+###This project demonstrates a loan approval model developed using a Random Forest classifier. The model is designed for financial institutions to minimize potential losses from loan defaults by accurately predicting loan approval outcomes.
 
 Key Features
 Utilizes a robust Random Forest algorithm to classify loan approval decisions.
@@ -35,7 +35,7 @@ Adjusting the model to improve recall and inclusivity to capture more positive c
 Incorporating additional features or external datasets to enhance prediction accuracy.
 Author
 Onyemeziri Valentine Chinazom
-Aspiring Data Scientist and Technical Trainer.
+Data Scientist and Technical Trainer.
 LinkedIn Profile
 
 License
