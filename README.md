@@ -7,7 +7,7 @@ This project demonstrates a loan approval model developed using a **Random Fores
 
 ## Key Features
 - Utilizes a robust **Random Forest algorithm** to classify loan approval decisions.  
-- Achieved high evaluation metrics:  
+- Achieved high evaluation metrics after cross_validation:  
   - **Accuracy**: 82.28% , 92.87% (Test) 
   - **Precision**: 96.35% (Training), 96.95% (Test)  
   - **Recall**: 71.80% (Training), 69.15% (Test)  
